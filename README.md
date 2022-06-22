@@ -53,6 +53,8 @@ Roadmaps are being made interactive and have been moved to website.
 
 Here is the list of available roadmaps with more being actively worked upon.
 
+- [.NET Core Roadmap](https://github.com/JavierCanon/developer-roadmap/blob/master/src/Net-Developer/AspNetCore-Developer-Roadmap/ReadMe.md)
+- [.NET Roadmap](https://github.com/JavierCanon/developer-roadmap/blob/master/src/Net-Developer/Practical.NET/README.md)
 - [Frontend Roadmap](https://roadmap.sh/frontend)
 - [Backend Roadmap](https://roadmap.sh/backend)
 - [DevOps Roadmap](https://roadmap.sh/devops)
